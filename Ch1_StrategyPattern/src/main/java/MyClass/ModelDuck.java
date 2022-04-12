@@ -4,6 +4,7 @@ import MyInterface.MyInterfaceImp.FlyNoWay;
 import MyInterface.MyInterfaceImp.Quack;
 import MyInterface.QuackBehavior;
 
+//模型鴨
 public class ModelDuck extends Duck{
 
     public ModelDuck() {
